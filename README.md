@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edinho-02
+- 👋 Hi, I’m @Edinho-02 and my name is Edson José Lopes Junior
 - 👀 I’m interested in learning programming and being available to companies
 - 🌱 I’m currently learning web fullstack in "digital house"
 - 💞️ I’m looking to collaborate on ...
