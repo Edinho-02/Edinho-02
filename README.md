@@ -2,7 +2,7 @@
 ***
 
 - 👋 Hi, Meu nome é Edson José Lopes Junior e meu nickname é Edinho-02;
-- 👀 Estou aprendendo novas tecnologias JavaScript, HTML5, CSS3, Git e GitHub;
+- 👀 Estou aprendendo novas tecnologias JavaScript, HTML5, CSS3, Git, GitHub e Inteligência Artificial para Negócios;
 - 🌱 Eu estou fazendo alguns cursos online para melhorar meu conhecimento;
 - 💞️ E estou a procura de um novo desafio para complementar o meu dia;
 - 📫 Vocês podem me achar no e-mail: edson02.lopes@uol.com.br e no telefone: +55 11 98212-9347;
